@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenyi-mic
 - 👀 I’m a web and mobile applications developer.
-- 🖥️ I'm a reactjs and node developer, react native for mobile and db @mongodb, mysql, 
+- 🖥️ I'm a reactjs and node developer, react native for mobile and db @mongodb, mysql, firebase and dynamodb
 - 🌱 I’m currently learning threejs, advance css Animations, web three technologies, deep learning using tensorflow.js.
 - 💞️ I’m looking to collaborate on web related projects(frontend & beackend, api or database development)
 - 📫 You can reach me in my fb - Michael kenyi (https://www.facebook.com/kenyi.olimpio.1) 
