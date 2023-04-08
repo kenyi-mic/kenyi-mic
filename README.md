@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kenyi-mic
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+     [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer+Based+in+Barisal;I'm+Always+Learning+Newstuffs;Open+for+Job+or+collabrations)](https://git.io/typing-svg)
 
 - 👀 I’m a web and mobile applications developer.
 - 🖥️ I'm a reactjs and node developer, react native for mobile and db @mongodb, mysql, firebase and dynamodb
