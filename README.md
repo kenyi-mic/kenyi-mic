@@ -1,5 +1,5 @@
   # Hi I'm @kenyi-mic <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
-
+                       ## Michael Kenyi 
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer+and+youtuber!;🌱+I'm+Always+learning;💞️+Open+for+Job+or+collabrations)](https://git.io/typing-svg)
 
 # Reach me out! 
