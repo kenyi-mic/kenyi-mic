@@ -2,7 +2,7 @@
                      
 ## [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Fullstack+Developer+and+youtuber!;🌱+I'm+Always+learning;💞️+Open+for+Job+or+collabrations)](https://git.io/typing-svg)
 
-# Reach me out! 
+# Reach me on! 
      
 [![Twitter Badge](https://img.shields.io/badge/-@michael_kenyi-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/michael_kenyi)](https://twitter.com/michael_kenyi) [![Mail Badge](https://img.shields.io/badge/-HyperDev-e74c3c?style=flat&labelColor=e74c3c&logo=youtube&logoColor=white)](https://www.youtube.com/@hyperdeveloper653) [![Linkedin Badge](https://img.shields.io/badge/-Michael-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-kenyi-6316a1143/)
 [![Linkedin Badge](https://img.shields.io/badge/-Hyperdevs-0e76a8?style=flat&labelColor=0e76a8&logo=facebook&logoColor=white)](https://www.facebook.com/groups/738275990140365) [![Mail Badge](https://img.shields.io/badge/-@hyperdevs-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://www.instagram.com/hyperdevs/) [![Mail Badge](https://img.shields.io/badge/-michaelkenyi13@gmail.com-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:michaelkenyi@gmail.com) 
