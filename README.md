@@ -11,13 +11,14 @@
 #
 
 
-- 🔭 I’m currently working at @Carriastic as React-native Intern
+- 🔭 I’m currently working at E-commerce application with React native
+- 💼  Finished my three months at @Carriastic as React-native Intern
 - 🤔 I’m looking for help with Outstanding Video ideas & new projects to work on.
 - 📫 How to reach me: michaelkenyi13@gmail.com.
 - 😄 Pronouns: hyperdevs, hyperdeveloper, kenyi-mic, mike.
 - ⚡ Fun fact: I love reading and going to the GYM very often.
-- 🖥️ I'm a reactjs and node developer, react native for mobile and db @mongodb, mysql, firebase and dynamodb
-- 🌱 I’m currently learning threejs, advance css Animations, web three technologies, deep learning using tensorflow.js & pattern recognition.
+- 🖥️ I'm a react js and node developer, react native for mobile and db @mongodb, MySQL, firebase, and dynamodb
+- 🌱 I’m currently learning three js, advanced css Animations, web three technologies, deep learning using tensorflow.js & pattern recognition.
 - 💞️ I’m looking to collaborate on web & Mobile(React-native) related projects(frontend & beackend, api or database development)
 
 ## Top Technologies
